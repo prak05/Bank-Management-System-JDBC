@@ -172,3 +172,19 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 
 ---
 
+## Portfolio brief
+
+A Java/JDBC banking application demonstrating account operations, persistence, transaction handling, and database-oriented application design.
+
+### Visual system
+
+Goldman Sachs-inspired institutional editorial direction: navy, white, restrained blue accents, structured grids, and client-portal hierarchy.
+
+### Architecture
+
+Java application layers connect domain operations to relational persistence through JDBC. Keep database configuration external and use transactional boundaries for money movement.
+
+### Run and output
+
+Compile with the repository's Java instructions, configure a local relational database, then run the application entry point. Never commit production credentials.
+
